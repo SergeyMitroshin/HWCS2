@@ -8,4 +8,7 @@
 
 
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Введите трехзначное число");
+ string s = Console.ReadLine();
+ Console.WriteLine ("-> " + s[1]);
+ 
