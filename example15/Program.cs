@@ -8,4 +8,6 @@
 
 Console.WriteLine("Введите цифру");
 int i = int.Parse (Console.ReadLine());
-if (i==6||i==7) Console.WriteLine ("да"); else Console.WriteLine ("нет");
+if (i==6||i==7) Console.WriteLine ("да");
+ else 
+ Console.WriteLine ("нет");
